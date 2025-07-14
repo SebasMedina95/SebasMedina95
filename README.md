@@ -71,7 +71,7 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
 </p>
 
-<h2 align="center">📫 Contáctame</h2>
+<h2>📫 Contáctame</h2>
 
 <table align="center">
   <tr>
@@ -82,7 +82,6 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
       <br/>
       <sub>
         <a href="https://www.linkedin.com/in/juan-sebastian-medina-toro-887491249/" target="_blank">
-          /juan-sebastian-medina-toro-887491249/
         </a>
       </sub>
     </td>
@@ -92,9 +91,7 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
       </a>
       <br/>
       <sub>
-        <a href="mailto:JSebastian19952011@gmail.com" target="_blank">
-          JSebastian19952011@gmail.com
-        </a>
+        <a href="mailto:JSebastian19952011@gmail.com" target="_blank"></a>
       </sub>
     </td>
   </tr>
