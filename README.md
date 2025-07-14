@@ -77,12 +77,10 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
   <a href="https://www.linkedin.com/in/juan-sebastian-medina-toro-887491249/" target="_blank" style="display:inline-block; margin: 0 40px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="56" height="56"><br>
     <span style="display:inline-block;margin-top:8px;font-size:14px;">LinkedIn</span><br>
-    <span style="display:inline-block;font-size:13px;">/juan-sebastian-medina-toro-887491249/</span>
   </a>
   <a href="mailto:JSebastian19952011@gmail.com" target="_blank" style="display:inline-block; margin: 0 40px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="56" height="56"><br>
     <span style="display:inline-block;margin-top:8px;font-size:14px;">Gmail</span><br>
-    <span style="display:inline-block;font-size:13px;">JSebastian19952011@gmail.com</span>
   </a>
 </div>
 
