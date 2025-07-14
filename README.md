@@ -26,7 +26,8 @@ Soy un apasionado de la tecnología y tengo la firme certeza de que alguien con 
   <!-- NodeJS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
   <!-- ExpressJS -->
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-express-8-1175029.png" alt="ExpressJS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/express.svg" alt="ExpressJS" width="40" height="40" style="background:#000; padding:6px; border-radius:8px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="ExpressJS" width="40" height="40" style="background:#000; border-radius:8px;"/>
   <!-- NestJS -->
   <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40"/>
   <!-- NextJS -->
@@ -50,7 +51,8 @@ Soy un apasionado de la tecnología y tengo la firme certeza de que alguien con 
   <!-- MongoDB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <!-- AWS -->
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/aws.png" alt="AWS" width="40" height="40" style="background:#000; padding:6px; border-radius:8px;"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" alt="AWS" width="40" height="40" style="background:#000; padding:6px; border-radius:8px;"/>
   <!-- Azure DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="40" height="40"/>
   <!-- Editor Visual Studio Code -->
