@@ -7,8 +7,8 @@ He tenido la oportunidad de liderar diferentes tipos desarrollos de software y a
 Soy un apasionado de la tecnología y tengo la firme certeza de que alguien con la disposición de seguir aprendiendo y perfeccionando conocimientos existentes es un elemento valioso para cualquier tipo de compañía.
 
 - 🧑‍💻 Mis Stacks principales son:
-  - NodeJS: Express & NestJS (TypeScript, Docker, monolitos y microservicios, PostgreSQL, MySQL, MongoDB)
-  - Java: Spring Boot (Docker, monolitos y microservicios, NATS, PostgreSQL, MySQL, Oracle)
+  - <b>NodeJS:</b> Express & NestJS (TypeScript, Docker, monolitos, microservicios, PostgreSQL, MySQL, MongoDB y AWS)
+  - <b>Java:</b> Spring Boot (Docker, monolitos, microservicios, NATS, PostgreSQL, MySQL, Oracle y AZURE/AWS)
 - ⚡ Me encanta aprender y compartir conocimiento
 - 📍 Medellín, Colombia
 
@@ -41,8 +41,6 @@ Soy un apasionado de la tecnología y tengo la firme certeza de que alguien con 
   <img src="https://www.manualweb.net/img/logos/java.png" alt="Docker" width="40" height="40"/>
   <!-- Spring Boot -->
   <img src="https://www.contentside.com/wp-content/uploads/2015/01/spring-boot-logo.png" alt="Docker" width="40" height="40"/>
-  
- 
   <!-- .NET -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
   <!-- Python -->
@@ -69,12 +67,7 @@ Soy un apasionado de la tecnología y tengo la firme certeza de que alguien con 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
   <!-- Editor Visual Studio Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
-
-
-
-
 </p>
-
 
 ## 📫 Contáctame
 
