@@ -71,16 +71,18 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
 </p>
 
-## 📫 Contáctame
+<h2 align="center">📫 Contáctame</h2>
 
-<h2>📫 Contáctame</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/juan-sebastian-medina-toro-887491249/" target="_blank" style="margin: 0 30px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="48" height="48"><br>
+  <a href="https://www.linkedin.com/in/juan-sebastian-medina-toro-887491249/" target="_blank" style="display:inline-block; margin: 0 40px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="56" height="56"><br>
+    <span style="display:inline-block;margin-top:8px;font-size:14px;">LinkedIn</span><br>
+    <span style="display:inline-block;font-size:13px;">/juan-sebastian-medina-toro-887491249/</span>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:JSebastian19952011@gmail.com" target="_blank" style="margin: 0 30px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="48" height="48"><br>
+  <a href="mailto:JSebastian19952011@gmail.com" target="_blank" style="display:inline-block; margin: 0 40px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="56" height="56"><br>
+    <span style="display:inline-block;margin-top:8px;font-size:14px;">Gmail</span><br>
+    <span style="display:inline-block;font-size:13px;">JSebastian19952011@gmail.com</span>
   </a>
 </div>
 
