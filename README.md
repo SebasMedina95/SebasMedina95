@@ -26,7 +26,7 @@ Soy un apasionado de la tecnología y tengo la firme certeza de que alguien con 
   <!-- NodeJS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
   <!-- ExpressJS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="40" height="40" style="background:white; border-radius:8px;"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-express-8-1175029.png" alt="ExpressJS" width="40" height="40"/>
   <!-- NestJS -->
   <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40"/>
   <!-- NextJS -->
