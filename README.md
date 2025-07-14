@@ -73,17 +73,32 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
 
 <h2 align="center">📫 Contáctame</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/juan-sebastian-medina-toro-887491249/" target="_blank" style="display:inline-block; margin: 0 30px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn"/><br>
-    <span>LinkedIn</span>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:JSebastian19952011@gmail.com" target="_blank" style="display:inline-block; margin: 0 30px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" alt="Gmail"/><br>
-    <span>Gmail</span>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/juan-sebastian-medina-toro-887491249/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn"/>
+      </a>
+      <br/>
+      <sub>
+        <a href="https://www.linkedin.com/in/juan-sebastian-medina-toro-887491249/" target="_blank">
+          /juan-sebastian-medina-toro-887491249/
+        </a>
+      </sub>
+    </td>
+    <td align="center">
+      <a href="mailto:JSebastian19952011@gmail.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" alt="Gmail"/>
+      </a>
+      <br/>
+      <sub>
+        <a href="mailto:JSebastian19952011@gmail.com" target="_blank">
+          JSebastian19952011@gmail.com
+        </a>
+      </sub>
+    </td>
+  </tr>
+</table>
 
 
 
