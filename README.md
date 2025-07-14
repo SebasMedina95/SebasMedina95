@@ -2,7 +2,7 @@
 
 Soy ingeniero informático graduado, con más de 6 años de experiencia en el desarrollo de sistemas de información, enfocado principalmente en el backend, aunque también cuento con conocimientos en frontend y en el análisis y gestión de proyectos.
  
-He tenido la oportunidad de liderar distintos tipos de desarrollos de software y equipos de trabajo, así como desempeñarme como programador en diversas tecnologías. Tengo experiencia en el desarrollo de servicios API RESTful y GraphQL que se integran tanto a capas frontend propias como externas, implementadas en diferentes frameworks. He trabajado con ORMs y ODMs para la gestión de bases de datos relacionales y NoSQL, manejo de imágenes de contenedores como Docker, así como con herramientas de versionamiento, servicios cloud y gestión de proyectos.
+He tenido la oportunidad de liderar distintos tipos de desarrollos de software y equipos de trabajo, así como desempeñarme como programador en diversas tecnologías. Tengo experiencia en el desarrollo de servicios API RESTful y GraphQL que se integran tanto a capas frontend propias como externas, implementadas en diferentes frameworks. He trabajado con ORMs y ODMs para la gestión de bases de datos SQL y NoSQL, nativas o mediante contenedores de Docker, así como con herramientas de versionamiento, servicios cloud y gestión de proyectos.
 
 Tengo capacidad para trabajar en arquitecturas monolíticas y de microservicios, manejo brokers de mensajería como NATS y aplico metodologías ágiles como Scrum. Mi buena disposición, respeto y capacidad de adaptación me permiten colaborar en equipos y proyectos complejos.
 
