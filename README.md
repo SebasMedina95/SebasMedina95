@@ -6,7 +6,9 @@ He tenido la oportunidad de liderar diferentes tipos desarrollos de software y a
 
 Soy un apasionado de la tecnología y tengo la firme certeza de que alguien con la disposición de seguir aprendiendo y perfeccionando conocimientos existentes es un elemento valioso para cualquier tipo de compañía.
 
-- 🧑‍💻 Trabajo con **Java, Spring Boot, NodeJS, Python, .NET**
+- 🧑‍💻 Mis Stacks principales son:
+  - NodeJS: Express & NestJS (TypeScript, Docker, monolitos y microservicios, PostgreSQL, MySQL, MongoDB)
+  - Java: Spring Boot (Docker, monolitos y microservicios, NATS, PostgreSQL, MySQL, Oracle)
 - ⚡ Me encanta aprender y compartir conocimiento
 - 📍 Medellín, Colombia
 
@@ -35,6 +37,12 @@ Soy un apasionado de la tecnología y tengo la firme certeza de que alguien con 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <!-- Java -->
+  <img src="https://www.manualweb.net/img/logos/java.png" alt="Docker" width="40" height="40"/>
+  <!-- Spring Boot -->
+  <img src="https://www.contentside.com/wp-content/uploads/2015/01/spring-boot-logo.png" alt="Docker" width="40" height="40"/>
+  
+ 
   <!-- .NET -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
   <!-- Python -->
