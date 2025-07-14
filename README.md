@@ -1,6 +1,10 @@
-# 👋 Hola, soy Juan Sebastian Medina Toro
+# 👋 Hola !, me llamo Juan Sebastian Medina Toro
 
-Desarrollador de Software | Backend & FullStack | Apasionado por la tecnología
+Soy Ingeniero informático graduado con más de 6 años de experiencia en el desarrollo de sistemas de información, con foco principal en el Backend, pero también con conocimientos en el lado Frontend y en el análisis y gestión de proyectos.
+ 
+He tenido la oportunidad de liderar diferentes tipos desarrollos de software y a equipos de trabajo, así como ser programador en diferentes tecnologías para el desarrollo de aplicaciones web, aplicativos API RESTful que se conectan a capas Frontend de autoría propia o externa, y el trabajo en paralelo con diferentes frameworks, así como ORMs y con base de datos tanto SQL como no SQL de manera nativa o manejando imágenes de contenedores como Docker, así como herramientas de versionamiento, Cloud y para la gestión de proyectos. Tengo la capacidad de trabajar tanto en arquitecturas monolíticas como en arquitecturas de microservicios y haciendo uso de metodologías ágiles como la Scrum. Mi buena disposición, respeto y capacidad de adaptación hacen que pueda colaborar en equipos y desarrollos complejos.
+
+Soy un apasionado de la tecnología y tengo la firme certeza de que alguien con la disposición de seguir aprendiendo y perfeccionando conocimientos existentes es un elemento valioso para cualquier tipo de compañía.
 
 - 🧑‍💻 Trabajo con **Java, Spring Boot, NodeJS, Python, .NET**
 - ⚡ Me encanta aprender y compartir conocimiento
