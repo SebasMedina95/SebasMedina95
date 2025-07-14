@@ -73,8 +73,13 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
 
 ## 📫 Contáctame
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/juan-sebastian-medina-toro-887491249/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:sebatyan.medyna@gmail.com)
+<a href="mailto:JSebastian19952011@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://www.linkedin.com/in/juan-sebastian-medina-toro-887491249/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
+</a>
+
 
 ---
 > "Siempre aprendiendo, siempre creciendo 🚀"
