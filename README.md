@@ -50,7 +50,7 @@ Soy un apasionado de la tecnología y tengo la firme certeza de que alguien con 
   <!-- MongoDB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <!-- AWS -->
-  <img src="https://tesslogs.com/wp-content/uploads/2024/10/Amazon-Web-Services-AWS-Logo.png" width="40" height="40" alt="AWS"/>
+  <img src="https://tesslogs.com/wp-content/uploads/2024/10/Amazon-Web-Services-AWS-Logo.png" width="40" height="50" alt="AWS"/>
   <!-- Azure DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="40" height="40"/>
   <!-- Editor Visual Studio Code -->
