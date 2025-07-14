@@ -14,7 +14,7 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
 - ⚡ Me encanta aprender y compartir conocimiento
 - 📍 Medellín, Colombia
 
-## 🚀 Tecnologías y herramientas que he tenido la oportunidad de trabajar
+## 🚀 Tecnologías y herramientas que he tenido la oportunidad de trabajar:
 
 <p align="left">
   <!-- HTML5 -->
