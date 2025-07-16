@@ -105,15 +105,15 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
 
 ## 🚀 Logros Destacados
 
-- ⭐ Reducción de tiempos de respuesta en aplicacionnes badas en PL SQL y ADF Faces mediante procedimientos almacenados y lenguaje Java.
-- ⭐ Contribución y migración de servicios nativos de PL SQL a entornos ADF Faces y Spring Boot usando procedimientos almacenados y ORMs.
-- ⭐ Implementación de estrategias de trabajo que mejoraban la calidad del desarrollo y el rendimiento de las aplicaciones mediante arquitecturas y patrones de diseño.
-- ⭐ Desarrollo de diversos microsercvicios que implementaban las operaciones de negocio de la agencia Sapiencia de la alcaldía de Medellín usando NestJS, AdonisJS y ExpressJS, mejorando la calidad de las operaciones, centralizando la información y unificando diversas capas Frontend con capas Backends.
-- ⭐ Liderazgo de equipos de desarrollo para la implementación de microservicios de alta concurrencia y que manejan grandes volumenes de información para diferentes entidades estatales y de Sapiencia.
-- ⭐ Migración de microservicios a plataformas Azure y contribución en el despliegue de aplicaciones AKS desarrolladas para Telefónica Movistar.
-- ⭐ Contribución en la implementación de una arquitectura basada en eventos NATS para el sostenimiento del alto frujo transaccional de operadores Telefonía Movistar.
-- ⭐ Desarrollo de diversas soluciones digitales basadas en monolitos y microservicios para conectar diferentes células de trabajo, bases de datos y negocios en pro del trabajo colectivo usando Spring Boot, NestJS y ORMs.
-- ⭐ Desarrollo de diversos microservicios que maximizan el alcance del negocio en Telefónica Movistar mediante alianzas con entidades como Uber, Ike, WinSpors entre otros usando la tecnología de NATS para soportar el tráfico.
+⚡ Reducción de tiempos de respuesta en aplicaciones basadas en PL SQL y ADF Faces mediante procedimientos almacenados y lenguaje Java.
+🔄 Migración de servicios nativos de PL SQL a entornos ADF Faces y Spring Boot usando procedimientos almacenados y ORMs.
+🧠 Implementación de estrategias de trabajo que mejoraban la calidad del desarrollo y el rendimiento mediante arquitecturas y patrones de diseño.
+🧩 Desarrollo de microservicios para la agencia Sapiencia (Alcaldía de Medellín) usando NestJS, AdonisJS y ExpressJS, mejorando operaciones, centralizando información y unificando capas frontend-backend.
+👥 Liderazgo de equipos de desarrollo en la implementación de microservicios de alta concurrencia y grandes volúmenes de datos para entidades estatales y Sapiencia.
+☁️ Migración a Azure y despliegue de aplicaciones en AKS (Azure Kubernetes Service) desarrolladas para Telefónica Movistar.
+🛰️ Arquitectura basada en eventos (NATS) para soportar el alto flujo transaccional de operadores de Telefonía Movistar.
+🔧 Desarrollo de soluciones digitales en monolitos y microservicios que conectan células de trabajo, bases de datos y negocios usando Spring Boot, NestJS y ORMs.
+🚀 Microservicios escalables que maximizan el alcance del negocio de Movistar mediante alianzas (Uber, Ike, WinSports), usando NATS para soportar tráfico de alto volumen.
 
 ## 🏅 Certificados
 
