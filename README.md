@@ -47,6 +47,8 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <!-- Python FastApi -->
+  <img src="https://svgmix.com/uploads/skillicons/151df7-fastapi.svg" alt="FastApi" width="40" height="40"/>
   <!-- NATS -->
   <img src="https://nats.io/img/nats-icon-color.svg" alt="NATS" width="40" height="40"/>
   <!-- PostgreSQL -->
@@ -57,6 +59,10 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   <!-- MongoDB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <!-- TypeORM -->
+  <img src="https://vectorseek.com/wp-content/uploads/2024/07/TypeORM-Logo-Vector-Logo-Vector.svg--300x271.png" alt="MongoDB" width="40" height="40"/>
+  <!-- PrismaORM -->
+  <img src="https://img.icons8.com/?size=512&id=zJh5Gyrd6ZKu&format=png" alt="MongoDB" width="40" height="40"/>
   <!-- AWS -->
   <img src="https://tesslogs.com/wp-content/uploads/2024/10/Amazon-Web-Services-AWS-Logo.png" width="50" height="50" alt="AWS"/>
   <!-- Azure DevOps -->
