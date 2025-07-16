@@ -2,7 +2,7 @@
 
 Soy ingeniero informático graduado, con más de 6 años de experiencia en el desarrollo de sistemas de información, enfocado principalmente en el backend, aunque también cuento con conocimientos en frontend y en el análisis y gestión de proyectos.
  
-He tenido la oportunidad de liderar distintos tipos de desarrollos de software y equipos de trabajo, así como desempeñarme como programador en diversas tecnologías. Tengo experiencia en el desarrollo de servicios API RESTful y GraphQL que se integran tanto a capas frontend propias como externas, implementadas en diferentes frameworks. He trabajado con ORMs y ODMs para la gestión de bases de datos SQL y NoSQL, nativas o mediante contenedores de Docker, así como con herramientas de versionamiento, servicios cloud y gestión de proyectos.
+He tenido la oportunidad de liderar distintos tipos de desarrollos de software y equipos de trabajo, así como desempeñarme como programador en diversas tecnologías. Tengo experiencia en el desarrollo de servicios API RESTful y GraphQL que se integran tanto a capas frontend propias como externas, implementadas en diferentes frameworks. He trabajado con ORMs y ODMs para la gestión de bases de datos SQL y NoSQL, nativas o mediante contenedores de Docker, así como Dockerización y el uso de herramientas de versionamiento, servicios cloud y gestión de proyectos.
 
 Tengo capacidad para trabajar en arquitecturas monolíticas y de microservicios, manejo brokers de mensajería como NATS y aplico metodologías ágiles como Scrum. Mi buena disposición, respeto y capacidad de adaptación me permiten colaborar en equipos y proyectos complejos.
 
@@ -79,7 +79,7 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
 
 <h2>📫 Contáctame</h2>
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/juan-sebastian-medina-toro-887491249/" target="_blank">
@@ -103,6 +103,21 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
   </tr>
 </table>
 
+## 🚀 Logros Destacados
+
+- ⭐ Reducción de tiempos de respuesta en aplicacionnes badas en PL SQL y ADF Faces mediante procedimientos almacenados y lenguaje Java.
+- ⭐ Contribución y migración de servicios nativos de PL SQL a entornos ADF Faces y Spring Boot usando procedimientos almacenados y ORMs.
+- ⭐ Implementación de estrategias de trabajo que mejoraban la calidad del desarrollo y el rendimiento de las aplicaciones mediante arquitecturas y patrones de diseño.
+- ⭐ Desarrollo de diversos microsercvicios que implementaban las operaciones de negocio de la agencia Sapiencia de la alcaldía de Medellín usando NestJS, AdonisJS y ExpressJS, mejorando la calidad de las operaciones, centralizando la información y unificando diversas capas Frontend con capas Backends.
+- ⭐ Liderazgo de equipos de desarrollo para la implementación de microservicios de alta concurrencia y que manejan grandes volumenes de información para diferentes entidades estatales y de Sapiencia.
+- ⭐ Migración de microservicios a plataformas Azure y contribución en el despliegue de aplicaciones AKS desarrolladas para Telefónica Movistar.
+- ⭐ Contribución en la implementación de una arquitectura basada en eventos NATS para el sostenimiento del alto frujo transaccional de operadores Telefonía Movistar.
+- ⭐ Desarrollo de diversas soluciones digitales basadas en monolitos y microservicios para conectar diferentes células de trabajo, bases de datos y negocios en pro del trabajo colectivo usando Spring Boot, NestJS y ORMs.
+- ⭐ Desarrollo de diversos microservicios que maximizan el alcance del negocio en Telefónica Movistar mediante alianzas con entidades como Uber, Ike, WinSpors entre otros usando la tecnología de NATS para soportar el tráfico.
+
+## 🏅 Certificados
+
+- 
 
 
 ---
