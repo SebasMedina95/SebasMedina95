@@ -105,15 +105,15 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
 
 ## 🚀 Logros Destacados
 
-⚡ Reducción de tiempos de respuesta en aplicaciones basadas en PL SQL y ADF Faces mediante procedimientos almacenados y lenguaje Java.
-🔄 Migración de servicios nativos de PL SQL a entornos ADF Faces y Spring Boot usando procedimientos almacenados y ORMs.
-🧠 Implementación de estrategias de trabajo que mejoraban la calidad del desarrollo y el rendimiento mediante arquitecturas y patrones de diseño.
-🧩 Desarrollo de microservicios para la agencia Sapiencia (Alcaldía de Medellín) usando NestJS, AdonisJS y ExpressJS, mejorando operaciones, centralizando información y unificando capas frontend-backend.
-👥 Liderazgo de equipos de desarrollo en la implementación de microservicios de alta concurrencia y grandes volúmenes de datos para entidades estatales y Sapiencia.
-☁️ Migración a Azure y despliegue de aplicaciones en AKS (Azure Kubernetes Service) desarrolladas para Telefónica Movistar.
-🛰️ Arquitectura basada en eventos (NATS) para soportar el alto flujo transaccional de operadores de Telefonía Movistar.
-🔧 Desarrollo de soluciones digitales en monolitos y microservicios que conectan células de trabajo, bases de datos y negocios usando Spring Boot, NestJS y ORMs.
-🚀 Microservicios escalables que maximizan el alcance del negocio de Movistar mediante alianzas (Uber, Ike, WinSports), usando NATS para soportar tráfico de alto volumen.
+- ⚡ Reducción de tiempos de respuesta en aplicaciones basadas en PL SQL y ADF Faces mediante procedimientos almacenados y lenguaje Java.
+- 🔄 Migración de servicios nativos de PL SQL a entornos ADF Faces y Spring Boot usando procedimientos almacenados y ORMs.
+- 🧠 Implementación de estrategias de trabajo que mejoraban la calidad del desarrollo y el rendimiento mediante arquitecturas y patrones de diseño.
+- 🧩 Desarrollo de microservicios para agencias estatales usando NestJS, AdonisJS y ExpressJS, mejorando operaciones, centralizando información y unificando capas frontend-backend.
+- 👥 Liderazgo de equipos de desarrollo en la implementación de microservicios de alta concurrencia y grandes volúmenes de datos para entidades estatales.
+- ☁️ Migración a Azure y despliegue de aplicaciones en AKS (Azure Kubernetes Service) desarrolladas para entidades de telecomunicaciones.
+- 🛰️ Arquitectura basada en eventos (NATS) para soportar el alto flujo transaccional de operadores de telefonía.
+- 🔧 Desarrollo de soluciones digitales en monolitos y microservicios que conectan células de trabajo, bases de datos y negocios usando Spring Boot, NestJS y ORMs.
+- 🚀 Microservicios escalables que maximizan el alcance del negocio de entidades de telefonía mediante alianzas (Uber, Ike, WinSports), usando NATS para soportar tráfico de alto volumen.
 
 ## 🏅 Certificados
 
