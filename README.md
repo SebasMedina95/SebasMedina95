@@ -111,9 +111,9 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
 - 🧩 Desarrollo de microservicios para agencias estatales usando NestJS, AdonisJS y ExpressJS, mejorando operaciones, centralizando información y unificando capas frontend-backend.
 - 👥 Liderazgo de equipos de desarrollo en la implementación de microservicios de alta concurrencia y grandes volúmenes de datos para entidades estatales.
 - ☁️ Migración a Azure y despliegue de aplicaciones en AKS (Azure Kubernetes Service) desarrolladas para entidades de telecomunicaciones.
-- 🛰️ Arquitectura basada en eventos (NATS) para soportar el alto flujo transaccional de operadores de telefonía.
-- 🔧 Desarrollo de soluciones digitales en monolitos y microservicios que conectan células de trabajo, bases de datos y negocios usando Spring Boot, NestJS y ORMs.
-- 🚀 Microservicios escalables que maximizan el alcance del negocio de entidades de telefonía mediante alianzas (Uber, Ike, WinSports), usando NATS para soportar tráfico de alto volumen.
+- 🛰️ Desarrollo de aplicaciones usando arquitecturas basadas en eventos (NATS) para soportar el alto flujo transaccional de operadores de telefonía, implementando políticas de reintentos y planes de contingencia contra caidas y recuperación de servicios operativos.
+- 🔧 Desarrollo de soluciones digitales en monolitos y microservicios que conectan células de trabajo, bases de datos y negocios usando Spring Boot, NestJS y ORMs para la migración de sistemas antiguos a tecnologías modernas así como escalables.
+- 🚀 Desarrollo e intercomunicación de microservicios escalables que maximizan el alcance del negocio de entidades de telefonía mediante alianzas (Uber, Ike, WinSports), usando NATS para soportar tráfico de alto volumen.
 
 ## 🏅 Certificados
 
