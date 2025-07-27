@@ -117,7 +117,10 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
 
 ## 🏅 Certificados
 
-- 
+-
+-
+-
+-
 
 
 ---
