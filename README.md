@@ -117,10 +117,11 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
 
 ## 🏅 Certificados
 
--
--
--
--
+- 📜 [NestJS: Desarrollo Backend Escalable con Node](https://udemy-certificate.s3.amazonaws.com/pdf/UC-c9d20f26-8bc5-49f0-9f88-dc4849e572b3.pdf) _(Udemy)_
+- 📜 [NestJS + GraphQL: Evoluciona tus APIs](https://udemy-certificate.s3.amazonaws.com/pdf/UC-eba6467c-6d7d-40b2-a9b6-da79a91b628a.pdf) _(Udemy)_
+- 📜 [Node: De Cero a Experto](https://udemy-certificate.s3.amazonaws.com/pdf/UC-933d9d43-6d75-4862-9ebc-ccb281cb09a4.pdf) _(Udemy)_
+- 📜 [Master en APIs RESTful con NodeJS: Crea 3 Backends Completos](https://udemy-certificate.s3.amazonaws.com/pdf/UC-ae57cf1c-5a1a-4cf8-a801-188a09c22efb.pdf) _(Udemy)_
+
 
 
 ---
