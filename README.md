@@ -117,6 +117,11 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
 
 ## 🏅 Certificados
 
+- 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-27f31dfe-51cf-41e7-96c1-f0a26e286339.pdf" target="_blank">Spring Framework 6 & Spring Boot 3: Desde Cero a Experto</a> _(Udemy)_
+- 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-decb58e1-3cf3-46c0-8d9c-eb2ff6f51daa.pdf" target="_blank">Microservicios: Guía Completa de Docker & Kubernetes</a> _(Udemy)_
+- 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-33e05934-d253-485f-87e6-80796543982c.pdf" target="_blank">Microservicios y APIs REST con Spring Boot, OAuth2 y Docker</a> _(Udemy)_
+- 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-06360624-9dab-4853-a5aa-f632002add44.pdf" target="_blank">Máster Definitivo en Spring Security 6, JWT y OAuth2 (2024-2025)</a> _(Udemy)_
+- 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-128d2ab4-4892-4cef-8844-1087b011644a.pdf" target="_blank">Guía Completa JUnit y Mockito (Incluye Spring Boot Test)</a> _(Udemy)_
 - 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-c9d20f26-8bc5-49f0-9f88-dc4849e572b3.pdf" target="_blank">NestJS: Desarrollo Backend Escalable con Node</a> _(Udemy)_
 - 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-eba6467c-6d7d-40b2-a9b6-da79a91b628a.pdf" target="_blank">NestJS + GraphQL: Evoluciona tus APIs</a> _(Udemy)_
 - 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-933d9d43-6d75-4862-9ebc-ccb281cb09a4.pdf" target="_blank">Node: De Cero a Experto</a> _(Udemy)_
@@ -134,7 +139,7 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
 - 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-20d9fd17-3b8c-45dd-827a-001b56f1b705.pdf" target="_blank">Angular: De Cero a Experto</a> _(Udemy)_
 - 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-92d8c8d7-6d25-419d-a0d0-683043669cb8.pdf" target="_blank">Dart: De Cero Hasta los Detalles</a> _(Udemy)_
 
-
+Y con la ayuda de Dios vienen muchos más en camino ... 😄
 
 ---
 > "Siempre aprendiendo, siempre creciendo 🚀"
