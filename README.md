@@ -117,10 +117,22 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
 
 ## 🏅 Certificados
 
-- 📜 [NestJS: Desarrollo Backend Escalable con Node](https://udemy-certificate.s3.amazonaws.com/pdf/UC-c9d20f26-8bc5-49f0-9f88-dc4849e572b3.pdf) _(Udemy)_
-- 📜 [NestJS + GraphQL: Evoluciona tus APIs](https://udemy-certificate.s3.amazonaws.com/pdf/UC-eba6467c-6d7d-40b2-a9b6-da79a91b628a.pdf) _(Udemy)_
-- 📜 [Node: De Cero a Experto](https://udemy-certificate.s3.amazonaws.com/pdf/UC-933d9d43-6d75-4862-9ebc-ccb281cb09a4.pdf) _(Udemy)_
-- 📜 [Master en APIs RESTful con NodeJS: Crea 3 Backends Completos](https://udemy-certificate.s3.amazonaws.com/pdf/UC-ae57cf1c-5a1a-4cf8-a801-188a09c22efb.pdf) _(Udemy)_
+- 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-c9d20f26-8bc5-49f0-9f88-dc4849e572b3.pdf" target="_blank">NestJS: Desarrollo Backend Escalable con Node</a> _(Udemy)_
+- 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-eba6467c-6d7d-40b2-a9b6-da79a91b628a.pdf" target="_blank">NestJS + GraphQL: Evoluciona tus APIs</a> _(Udemy)_
+- 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-933d9d43-6d75-4862-9ebc-ccb281cb09a4.pdf" target="_blank">Node: De Cero a Experto</a> _(Udemy)_
+- 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-ae57cf1c-5a1a-4cf8-a801-188a09c22efb.pdf" target="_blank">Master en APIs RESTful con NodeJS: Crea 3 Backends Completos</a> _(Udemy)_
+- 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-1028e097-a851-4346-be19-fb7e3926e9ac.pdf" target="_blank">JavaScript Moderno: Guía Definitiva Construye +20 Proyectos</a> _(Udemy)_
+- 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-2e289177-fccc-421e-be1e-40e75bdee18d.pdf" target="_blank">JavaScript Moderno: Guía para Dominar el Lenguaje</a> _(Udemy)_
+- 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-cb93b1f0-3595-4d02-8ea1-4252f5341e81.pdf" target="_blank">TypeScript: Tu Completa Guía y Manual de Mano</a> _(Udemy)_
+- 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-dfa3d556-cf29-411d-8fdc-487ab26f7fa7.pdf" target="_blank">Principios SOLID y Clean Code</a> _(Udemy)_
+- 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-bbe9e694-055d-4d2c-bf6a-6ee8954f80d7.pdf" target="_blank">UX: Máster en Diseño Web y Experiencia de Usuario</a> _(Udemy)_
+- 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-7977f537-bf1c-4587-8a6c-f4069c5e236b.pdf" target="_blank">Crea Sistemas POS Inventarios y Ventas con PHP y MySQL V1.0</a> _(Udemy)_
+- 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-93a84a6e-a9e5-4811-bce0-f97b310d91f9.pdf" target="_blank">Crea Sistemas de Reservas y Alquiler con PHP y MercadoPago</a> _(Udemy)_
+- 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-8944e861-039e-4f47-8f79-76acc9c5db71.pdf" target="_blank">Crea Sistemas Ecommerce con PHP y MySQL V1.0</a> _(Udemy)_
+- 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-LH00T0FN.pdf" target="_blank">Desarrollo de Sistemas Web en PHP 7 POO, MySQL, JQuery y Ajax</a> _(Udemy)_
+- 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-0b32a751-b89c-4994-b9ef-9a1b2991fb18.pdf" target="_blank">React: De Cero a Experto (Hooks y MERN)</a> _(Udemy)_
+- 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-20d9fd17-3b8c-45dd-827a-001b56f1b705.pdf" target="_blank">Angular: De Cero a Experto</a> _(Udemy)_
+- 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-92d8c8d7-6d25-419d-a0d0-683043669cb8.pdf" target="_blank">Dart: De Cero Hasta los Detalles</a> _(Udemy)_
 
 
 
