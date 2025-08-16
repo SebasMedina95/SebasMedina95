@@ -145,4 +145,4 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
 Y con la ayuda de Dios vienen muchos más en camino ... 😄
 
 ---
-> "Siempre aprendiendo, siempre creciendo 🚀"
+> "Un gomoso de la tecnología ... Siempre aprendiendo ... Siempre creciendo 🚀"
