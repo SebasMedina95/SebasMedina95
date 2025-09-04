@@ -17,7 +17,8 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
 - ⚡ Me encanta aprender y compartir conocimiento
 - 📍 Medellín, Colombia
 
-## 🚀 Tecnologías y herramientas que he tenido la oportunidad de trabajar:
+## 🚀 Tecnologías y herramientas que he tenido la oportunidad de trabajar
+A lo largo de mi carrera he tenido la oportunidad de trabajar con multiples tecnologías, algunas las he usado más que otras y en algunas es claro que más manejo que otras, sin embargo, mi predisposición para aprender y capacidad de adaptarme al trabajo, tanto grupal como independiente me permite colaborar en diferentes áreas multidisciplinarias de la programación así como colaborar en equipos y desarrollos complejos. De las tecnologías, lenguajes de programación y demás que he tenido la oportunidad de trabajar son las siguientes:
 
 <p align="left">
   <!-- HTML5 -->
@@ -101,6 +102,15 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
       <br/>
       <sub>
         <a href="mailto:JSebastian19952011@gmail.com" target="_blank"></a>
+      </sub>
+    </td>
+   <td align="center">
+      <a href="https://github.com/SebasMedina95" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="48" height="48" alt="Gmail"/>
+      </a>
+      <br/>
+      <sub>
+        <a href="https://github.com/SebasMedina95" target="_blank"></a>
       </sub>
     </td>
   </tr>
