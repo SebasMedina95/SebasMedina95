@@ -83,7 +83,7 @@ A lo largo de mi carrera he tenido la oportunidad de trabajar con multiples tecn
 
 <h2>📫 Contáctame</h2>
 
-<table align="center" border="0">
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/juan-sebastian-medina-toro-887491249/" target="_blank">
@@ -106,7 +106,7 @@ A lo largo de mi carrera he tenido la oportunidad de trabajar con multiples tecn
     </td>
    <td align="center">
       <a href="https://github.com/SebasMedina95" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="48" height="48" alt="Gmail"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="48" height="48" alt="GitHub"/>
       </a>
       <br/>
       <sub>
