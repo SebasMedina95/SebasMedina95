@@ -106,6 +106,7 @@ A lo largo de mi carrera he tenido la oportunidad de trabajar con multiples tecn
 - 🛰️ Desarrollo de aplicaciones usando arquitecturas basadas en eventos (NATS) para soportar el alto flujo transaccional de operadores de telefonía, implementando políticas de reintentos y planes de contingencia contra caidas y recuperación de servicios operativos.
 - 🔧 Desarrollo de soluciones digitales en monolitos y microservicios que conectan células de trabajo, bases de datos y negocios usando Spring Boot, NestJS y ORMs para la migración de sistemas antiguos a tecnologías modernas así como escalables.
 - 🚀 Desarrollo e intercomunicación de microservicios escalables que maximizan el alcance del negocio de entidades de telefonía mediante alianzas (Uber, Ike, WinSports), usando NATS para soportar tráfico de alto volumen.
+- 🚀 Regularización y participación en planes de contingencia para la resolución de incidentes programaticos así como estabilización de flujos de desarrollo basados en NATS con soporte de trafico de alto volumen.
 
 ## 🏅 Certificados
 
