@@ -11,8 +11,9 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
 - 🧑‍💻 Mis Stacks principales son:
   - <b>NodeJS:</b> Express & NestJS (TypeScript, Docker, monolitos, microservicios, PostgreSQL, MySQL, MongoDB y AWS)
   - <b>Java:</b> Spring Boot (Docker, monolitos, microservicios, NATS, PostgreSQL, MySQL, Oracle y AZURE/AWS)
-- ➕ Conocimientos extras:
+- ➕ Conocimientos que estoy adquiriendo para impulsar mi perfil:
   - <b>Python:</b> Desarrollo de API RESTful usando FastApi
+  - <b>.NET Core:</b> para el Desarrollo de Web Api
   - <b>React:</b> Implementación frontend usando ReactJS y NextJS - Maquetación básica, HTML, CSS, JS, Tailwind y Bootstrap
 - ⚡ Me encanta aprender y compartir conocimiento
 - 📍 Medellín, Colombia
