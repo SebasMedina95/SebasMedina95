@@ -19,7 +19,7 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
 - 📍 Medellín, Colombia
 
 ## 🚀 Tecnologías y herramientas que he tenido la oportunidad de trabajar
-A lo largo de mi carrera he tenido la oportunidad de trabajar con multiples tecnologías, algunas las he usado más que otras y en algunas es claro que más manejo que otras, sin embargo, mi predisposición para aprender y capacidad de adaptarme al trabajo, tanto grupal como independiente me permite colaborar en diferentes áreas multidisciplinarias de la programación así como colaborar en equipos y desarrollos complejos. De las tecnologías, lenguajes de programación y demás que he tenido la oportunidad de trabajar son las siguientes:
+A lo largo de mi carrera he tenido la oportunidad de trabajar con multiples tecnologías, algunas las he usado más que otras y en algunas es claro que más manejo que otras, sin embargo, mi predisposición para aprender y capacidad de adaptarme al trabajo, tanto grupal como independiente me permite colaborar en diferentes áreas multidisciplinarias de la programación así como colaborar en equipos y desarrollos de alta complejidad así como impacto en nichos de mercado de alta concurrencia. De las tecnologías, lenguajes de programación y demás que he tenido la oportunidad de trabajar son las siguientes:
 
 <p align="left">
   <!-- HTML5 -->
