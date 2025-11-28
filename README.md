@@ -53,7 +53,7 @@ A lo largo de mi carrera he tenido la oportunidad de trabajar con multiples tecn
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <!-- Python FastApi -->
-  <img src="https://svgmix.com/uploads/skillicons/151df7-fastapi.svg" alt="FastApi" width="40" height="40"/>
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png?_a=DATAg1AAZAA0" alt="FastApi" width="40" height="40"/>
   <!-- NATS -->
   <img src="https://nats.io/img/nats-icon-color.svg" alt="NATS" width="40" height="40"/>
   <!-- PostgreSQL -->
