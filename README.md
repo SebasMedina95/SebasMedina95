@@ -1,6 +1,6 @@
 # 👋 ¡ Hola !, me llamo Juan Sebastian Medina Toro 😄
 
-Soy ingeniero informático graduado, con poco más de 7 años de experiencia en el desarrollo de sistemas de información, enfocado principalmente en el backend, aunque también cuento con conocimientos en frontend y en el análisis así como gestión de proyectos.
+Soy ingeniero informático graduado, con poco más de 7 años de experiencia en el desarrollo de sistemas de información, enfocado principalmente en el backend, aunque también cuento con conocimientos en frontend así como en el análisis y gestión de proyectos.
  
 He tenido la oportunidad de liderar distintos tipos de desarrollos de software y equipos de trabajo, así como desempeñarme como programador en diversas tecnologías. Tengo experiencia en el desarrollo de servicios API RESTful y GraphQL que se integran tanto a capas frontend propias como externas, implementadas en diferentes frameworks. Mis conocimientos me han permitido cooperar en equipos multidisciplinarios. trabajando con arquitecturas basadas en eventos e implementando soluciones con Brokers de mensajería para mantener el alto flujo transaccional de diversos sistemas interconectados, garantizando una óptima experiencia de usuario. He trabajado con ORMs y ODMs para la gestión de bases de datos SQL y NoSQL, nativas o mediante contenedores de Docker, así como Dockerización y el uso de herramientas de versionamiento, servicios cloud, gestión de proyectos y metodologías ágiles como scrum.
 
