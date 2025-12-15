@@ -13,7 +13,6 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
   - <b>Java:</b> Spring Boot (Docker, monolitos, microservicios, NATS, PostgreSQL, MySQL, Oracle y AZURE/AWS)
 - ➕ Conocimientos que estoy adquiriendo para impulsar mi perfil:
   - <b>Python:</b> Desarrollo de API RESTful usando FastApi
-  - <b>.NET Core:</b> para el Desarrollo de Web Api
   - <b>React:</b> Implementación frontend usando ReactJS y NextJS - Maquetación básica, HTML, CSS, JS, Tailwind y Bootstrap
 - ⚡ Me encanta aprender y compartir conocimiento
 - 📍 Medellín, Colombia
@@ -48,8 +47,6 @@ A lo largo de mi carrera he tenido la oportunidad de trabajar con multiples tecn
   <img src="https://www.manualweb.net/img/logos/java.png" alt="Docker" width="40" height="40"/>
   <!-- Spring Boot -->
   <img src="https://www.contentside.com/wp-content/uploads/2015/01/spring-boot-logo.png" alt="Docker" width="40" height="40"/>
-  <!-- .NET -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <!-- Python FastApi -->
