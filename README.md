@@ -107,7 +107,7 @@ A lo largo de mi carrera he tenido la oportunidad de trabajar con multiples tecn
 - 🚀 Desarrollo e intercomunicación de microservicios escalables que maximizan el alcance del negocio de entidades de telefonía mediante alianzas (Uber, Ike, WinSports), usando NATS para soportar tráfico de alto volumen.
 - 🚀 Regularización y participación en planes de contingencia para la resolución de incidentes programaticos así como estabilización de flujos de desarrollo basados en NATS con soporte de trafico de alto volumen.
 
-## 🏅 Certificados
+## 🏅 Certificados adquiridos
 
 - 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-27f31dfe-51cf-41e7-96c1-f0a26e286339.pdf" target="_blank">Spring Framework 6 & Spring Boot 3: Desde Cero a Experto</a> _(Udemy)_
 - 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-decb58e1-3cf3-46c0-8d9c-eb2ff6f51daa.pdf" target="_blank">Microservicios: Guía Completa de Docker & Kubernetes</a> _(Udemy)_
