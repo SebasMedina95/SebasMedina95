@@ -130,6 +130,8 @@ A lo largo de mi carrera he tenido la oportunidad de trabajar con multiples tecn
 - 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-0b32a751-b89c-4994-b9ef-9a1b2991fb18.pdf" target="_blank">React: De Cero a Experto (Hooks y MERN)</a> _(Udemy)_
 - 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-20d9fd17-3b8c-45dd-827a-001b56f1b705.pdf" target="_blank">Angular: De Cero a Experto</a> _(Udemy)_
 - 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-92d8c8d7-6d25-419d-a0d0-683043669cb8.pdf" target="_blank">Dart: De Cero Hasta los Detalles</a> _(Udemy)_
+- 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-154e3807-a563-471c-91b7-3e9c20586011.pdf" target="_blank">NestJS + Microservicios: Aplicaciones escalables y modulares</a> _(Udemy)_
+- 📜 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-a9e55b2b-4934-4696-b764-a56ec1ea7b77.pdf" target="_blank">NodeJS: De cero a experto</a> _(Udemy)_
 
 Y con la ayuda de Dios vienen muchos más en camino ... 😄
 
