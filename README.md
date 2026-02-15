@@ -8,7 +8,7 @@ Tengo capacidad para trabajar en arquitecturas monolíticas y de microservicios,
 Soy un apasionado de la tecnología y estoy convencido de que una persona con disposición para aprender y perfeccionar sus conocimientos es un elemento valioso en cualquier compañía ...
 
 ## 🧑‍💻 Mis Stacks principales son:
-  - <b>NodeJS:</b> Express & NestJS (REST, GraphQL, TypeScript, Docker, monolitos, microservicios, PostgreSQL, MySQL, MongoDB y AWS)
+  - <b>NodeJS:</b> Express & NestJS (REST, GraphQL, TypeScript, Docker, monolitos, microservicios (NATS), PostgreSQL, MySQL, MongoDB y AWS)
   - <b>Java:</b> Spring Boot (Docker, monolitos, microservicios, NATS, PostgreSQL, MySQL, Oracle y AZURE/AWS)
     
 ## ➕ Conocimientos que estoy adquiriendo para impulsar mi perfil:
