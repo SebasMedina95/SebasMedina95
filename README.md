@@ -21,62 +21,34 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
 A lo largo de mi carrera he tenido la oportunidad de trabajar con multiples tecnologías, algunas las he usado más que otras y en algunas es claro que más manejo que otras, sin embargo, mi predisposición para aprender y capacidad de adaptarme al trabajo, tanto grupal como independiente me permite colaborar en diferentes áreas multidisciplinarias de la programación así como colaborar en equipos y desarrollos de alta complejidad así como impacto en nichos de mercado de alta concurrencia. De las tecnologías, lenguajes de programación y demás que he tenido la oportunidad de trabajar son las siguientes:
 
 <p align="center">
-  <!-- HTML5 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <!-- CSS3 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <!-- TailwindCSS -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" width="40" height="40"/>
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <!-- TypeScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <!-- NodeJS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
-  <!-- ExpressJS -->
-  <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" width="40" height="40" alt="ExpressJS"/>
-  <!-- NestJS -->
-  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40"/>
-  <!-- NextJS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40"/>
-  <!-- ReactJS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
-  <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <!-- Java -->
-  <img src="https://www.manualweb.net/img/logos/java.png" alt="Docker" width="40" height="40"/>
-  <!-- Spring Boot -->
-  <img src="https://www.contentside.com/wp-content/uploads/2015/01/spring-boot-logo.png" alt="Docker" width="40" height="40"/>
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <!-- Python FastApi -->
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png?_a=DATAg1AAZAA0" alt="FastApi" width="40" height="40"/>
-  <!-- NATS -->
-  <img src="https://nats.io/img/nats-icon-color.svg" alt="NATS" width="40" height="40"/>
-  <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <!-- Oracle -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  <!-- MongoDB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <!-- TypeORM -->
-  <img src="https://vectorseek.com/wp-content/uploads/2024/07/TypeORM-Logo-Vector-Logo-Vector.svg--300x271.png" alt="MongoDB" width="40" height="40"/>
-  <!-- PrismaORM -->
-  <img src="https://img.icons8.com/?size=512&id=zJh5Gyrd6ZKu&format=png" alt="MongoDB" width="40" height="40"/>
-  <!-- AWS -->
-  <img src="https://tesslogs.com/wp-content/uploads/2024/10/Amazon-Web-Services-AWS-Logo.png" width="50" height="50" alt="AWS"/>
-  <!-- Azure DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="40" height="40"/>
-  <!-- Editor Visual Studio Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-  <!-- Editor IntelliJ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
-  <!-- Editor Visual PyCharm -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
-  <!-- Editor Visual Studio Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40" />
+  <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="ExpressJS" width="40" height="40" />
+  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+  <img src="https://www.manualweb.net/img/logos/java.png" alt="Java" width="40" height="40" />
+  <img src="https://www.contentside.com/wp-content/uploads/2015/01/spring-boot-logo.png" alt="Spring Boot" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png?_a=DATAg1AAZAA0" alt="FastAPI" width="40" height="40" />
+  <img src="https://nats.io/img/nats-icon-color.svg" alt="NATS" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://vectorseek.com/wp-content/uploads/2024/07/TypeORM-Logo-Vector-Logo-Vector.svg--300x271.png" alt="TypeORM" width="40" height="40" />
+  <img src="https://img.icons8.com/?size=512&id=zJh5Gyrd6ZKu&format=png" alt="Prisma" width="40" height="40" />
+  <img src="https://tesslogs.com/wp-content/uploads/2024/10/Amazon-Web-Services-AWS-Logo.png" alt="AWS" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40" />
 </p>
 
 <h2>📫 Contáctame</h2>
