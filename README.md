@@ -13,7 +13,7 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
     
 ## ➕ Conocimientos que estoy adquiriendo para impulsar mi perfil:
   - <b>Python:</b> Desarrollo de API RESTful usando FastApi
-  - <b>React:</b> Implementación frontend usando ReactJS y NextJS - Maquetación básica, HTML, CSS, JS, Tailwind y Bootstrap
+  - <b>Angular:</b> Implementación frontend usando Angular - Maquetación básica, HTML, CSS, JS, Tailwind y Bootstrap
   - <b>AWS:</b> Uso de diferentes servicios como RDS, ECS, ECR, EC2, S3, Gateway API, SES, CloudWatch, Secrets Manager, Lambda, ...
 - ⚡ Me encanta aprender y compartir conocimiento
 - 📍 Medellín, Colombia
