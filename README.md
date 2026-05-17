@@ -9,7 +9,7 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
 
 ## 🧑‍💻 Mis Stacks principales son:
   - <b>NodeJS:</b> Express & NestJS (REST, GraphQL, TypeScript, Docker, monolitos, microservicios (NATS), PostgreSQL, MySQL, MongoDB y AWS)
-  - <b>Java:</b> Spring Boot (Docker, monolitos, microservicios, NATS, PostgreSQL, MySQL, Oracle y AZURE/AWS)
+  - <b>Java:</b> Spring Boot (Docker, monolitos, microservicios (NATS), PostgreSQL, MySQL, Oracle y AZURE/AWS)
     
 ## ➕ Conocimientos que estoy adquiriendo para impulsar mi perfil:
   - <b>Python:</b> Desarrollo de API RESTful usando FastApi.
