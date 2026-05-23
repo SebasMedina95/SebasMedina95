@@ -133,6 +133,6 @@ Y con la ayuda de Dios vienen muchos más en camino ... 😄
 ---
 <div align="center">
  <p>🚀 Siempre aprendiendo ... Siempre creciendo</p>
- <p>📍 Medellín, Colombia</p>
+ <p>📍 Medellín, Antioquia, Colombia</p>
 </div>
 
