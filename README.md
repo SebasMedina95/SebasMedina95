@@ -12,11 +12,12 @@ Soy un apasionado de la tecnología y estoy convencido de que una persona con di
   - <b>Java:</b> Spring Boot (Docker, monolitos, microservicios (NATS), PostgreSQL, MySQL, Oracle y AZURE/AWS)
     
 ## ➕ Conocimientos que estoy adquiriendo para impulsar mi perfil:
-  - <b>Python:</b> Desarrollo de API RESTful usando FastApi.
-  - <b>Angular:</b> Implementación frontend usando Angular 17+ - Maquetación básica, HTML, CSS, TS, Tailwind y Bootstrap - Componentes PrimeNG, Angular Material, Shadcn. 
-  - <b>AWS:</b> Uso de diferentes servicios como RDS, ECS, ECR, EC2, S3, Gateway API, SES, CloudWatch, Secrets Manager, Lambda, ...
-- ⚡ Me encanta aprender y compartir conocimiento
-- 📍 Medellín, Colombia
+  - <b>Python:</b> Desarrollo de APIs RESTful con FastAPI, aplicando buenas prácticas de estructuración, validación de datos, manejo de dependencias y conexión con bases de datos.
+  - <b>Angular:</b> Desarrollo frontend con Angular 17+, TypeScript, HTML, CSS, Tailwind CSS y Bootstrap. Construcción de interfaces reutilizables mediante componentes, formularios, servicios, guards, consumo de APIs REST y uso de librerías UI como PrimeNG, Angular Material y Shadcn.
+  - <b>AWS:</b> Uso e integración de servicios cloud como RDS, EC2, ECS, ECR, S3, API Gateway, SES, CloudWatch, Secrets Manager y Lambda, orientado al despliegue, monitoreo, almacenamiento, comunicación y ejecución de aplicaciones backend.
+  - <b>Azure DevOps:</b> Gestión de repositorios Git, manejo de ramas, creación de Pull Requests, revisión de cambios y configuración de pipelines CI/CD para automatizar procesos de build, validación y despliegue, incluyendo integraciones con ecosistemas AWS mediante servicios como IAM, S3, CloudFormation, AWS SAM, Lambda y API Gateway.
+  - ⚡ Me encanta aprender y compartir conocimiento
+  - 📍 Medellín, Colombia
 
 ## 🚀 Tecnologías y herramientas que he tenido la oportunidad de trabajar
 A lo largo de mi carrera he tenido la oportunidad de trabajar con multiples tecnologías, algunas las he usado más que otras y en algunas es claro que más manejo que otras, sin embargo, mi predisposición para aprender y capacidad de adaptarme al trabajo, tanto grupal como independiente me permite colaborar en diferentes áreas multidisciplinarias de la programación así como colaborar en equipos y desarrollos de alta complejidad así como impacto en nichos de mercado de alta concurrencia. De las tecnologías, lenguajes de programación y demás que he tenido la oportunidad de trabajar son las siguientes:
