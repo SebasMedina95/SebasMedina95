@@ -130,4 +130,8 @@ Y con la ayuda de Dios vienen muchos más en camino ... 😄
 ---
 > "Un gomoso de la tecnología ... Siempre aprendiendo ... Siempre creciendo 🚀"
 > Si lo puedes imaginar, seguro lo puedes programar ...
-> 📍 Medellín, Colombia
+---
+<div align="center">
+ 📍 Medellín, Colombia
+</div>
+
