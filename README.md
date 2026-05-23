@@ -128,10 +128,11 @@ A lo largo de mi carrera he tenido la oportunidad de trabajar con multiples tecn
 Y con la ayuda de Dios vienen muchos más en camino ... 😄
 
 ---
-> "Un gomoso de la tecnología ... Siempre aprendiendo ... Siempre creciendo 🚀"
+> Un curioso de la tecnología.   
 > Si lo puedes imaginar, seguro lo puedes programar ...
 ---
 <div align="center">
- 📍 Medellín, Colombia
+ <p>🚀 Siempre aprendiendo ... Siempre creciendo</p>
+ <p>📍 Medellín, Colombia</p>
 </div>
 
